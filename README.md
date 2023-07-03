@@ -5,7 +5,7 @@
 
 - 📫 How to reach me? **michaelgtiburcio@outlook.com**
 
-- 🌱 I’m currently learning **Python** 
+- 🌱 I’m currently learning **Python** and **TypeScript**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
